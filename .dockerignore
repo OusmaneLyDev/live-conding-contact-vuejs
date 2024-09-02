@@ -1,0 +1,5 @@
+node_modules
+dish
+.git
+.vscode
+.DS_Store
